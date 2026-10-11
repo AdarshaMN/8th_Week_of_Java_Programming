@@ -19,7 +19,6 @@ public class TwoArrays {
     }
 
     //21) Given two arrays of the same length, return a new array with the bigger number at each position.
-
     static int[] getlargeNumberInEachPosition(int[] arr1, int[] arr2)
     {
         ArrayList<Integer> arrayValue = new ArrayList<>();
