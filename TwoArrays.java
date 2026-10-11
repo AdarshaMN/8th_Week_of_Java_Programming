@@ -8,7 +8,6 @@ public class TwoArrays {
     static int getCountSubjectRaviScoredThanSita(int[] ravi, int[] sita)
     {
         int countSubjects = 0;
-
         for(int i = 0; i < ravi.length; i++)
         {
             if(ravi[i] > sita[i])
