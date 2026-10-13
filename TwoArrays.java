@@ -1,5 +1,4 @@
 package DSA.SeventhWeek;
-
 import java.util.*;
 
 public class TwoArrays {
