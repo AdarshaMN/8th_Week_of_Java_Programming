@@ -6,7 +6,7 @@ public class TwoArrays {
     
     //20) Given Ravi's and Sita's marks in the same five subjects, return in how many subjects Ravi scored more than Sita.
     static int getCountSubjectRaviScoredThanSita(int[] ravi, int[] sita)
-    {
+    {      
         int countSubjects = 0;
         for(int i = 0; i < ravi.length; i++)
         {
